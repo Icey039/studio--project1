@@ -34,7 +34,7 @@ body {
     right: 30%;
 }
 .image-container a:nth-child(1) img {
-    width: 300px; 
+    width: 400px; 
 }
 
 .image-container a:nth-child(2) {
@@ -47,10 +47,10 @@ body {
 
 .image-container a:nth-child(3) {
     top: 42%;
-    right: 50%;
+    right: 75%;
 }
 .image-container a:nth-child(3) img {
-    width: 230px; 
+    width: 280px; 
 }
 
 .image-container a:nth-child(4) {
@@ -67,5 +67,46 @@ body {
 
 }
 .image-container a:nth-child(5) img {
+    width: 330px; 
+}
+
+.image-container a:nth-child(6) {
+    top: 9%;
+    right: 90%;
+}
+.image-container a:nth-child(6) img {
+    width: 190px; 
+}
+
+.image-container a:nth-child(7) {
+    top: 35%;
+    right:110%;
+}
+.image-container a:nth-child(7) img {
+    width: 380px; 
+}
+
+.image-container a:nth-child(8) {
+    top: 57%;
+    right: 160%;
+}
+.image-container a:nth-child(8) img {
+    width: 230px; 
+}
+
+.image-container a:nth-child(9) {
+    top: 15%;
+    right: 155%;
+}
+.image-container a:nth-child(9) img {
+    width: 320px; 
+}
+
+.image-container a:nth-child(10) {
+    top: 73%;
+    right: 100%;
+
+}
+.image-container a:nth-child(10) img {
     width: 330px; 
 }
