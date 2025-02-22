@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inria Serif', serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8ec1dd; 
+}
+
+.container {
+    text-align: center;
+    max-width: 800px;
+    padding: 20px;
+}
+
+h1 {
+    font-size:5rem; 
+    color: #daf6ff;
+    position: absolute;
+    top: 35%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    z-index: 1; 
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.lotus-image {
+    width: 450px; 
+    height: auto;
+    border-radius: 10px;
+    z-index: 0; 
+}
+
+.description {
+    text-align: justify; 
+    font-size: 1.1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    color: #d1f2fc;
+}
+
+.description p {
+    margin: 0;
+}
